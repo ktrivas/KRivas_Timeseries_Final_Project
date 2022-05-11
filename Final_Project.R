@@ -12,8 +12,8 @@ library(shinyWidgets)
 library(dashboardthemes)
 library(regclass)
 # Path where data is
-file_path <- "/Users/keltonrivas/Documents/Classes Spring 2022/BAS 475/BAS 475 Final Project/KRivas_Timeseries_Final_Project/multiTimeline.csv"
-
+file_path <- "multiTimeline.csv"
+#"/Users/keltonrivas/Documents/Classes Spring 2022/BAS 475/BAS 475 Final Project/KRivas_Timeseries_Final_Project/multiTimeline.csv"
 # Data starts in 3rd row, skip first 2 rows
 g_trends <- read.csv(file_path, skip = 2)
 # Rename columns

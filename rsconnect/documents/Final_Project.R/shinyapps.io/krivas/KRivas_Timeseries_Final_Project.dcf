@@ -1,0 +1,14 @@
+name: KRivas_Timeseries_Final_Project
+title: KRivas_Timeseries_Final_Project
+username:
+account: krivas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6276819
+bundleId: 5893448
+url: https://krivas.shinyapps.io/KRivas_Timeseries_Final_Project/
+when: 1652239488.99319
+lastSyncTime: 1652239488.9932
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.md
